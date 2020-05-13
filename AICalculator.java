@@ -1,9 +1,3 @@
-package ai.calculator;
-
-/**
- *
- * @author Administrator
- */
 import java.util.Random;
 import java.util.Scanner;
 public class AICalculator {
